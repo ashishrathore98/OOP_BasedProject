@@ -1,0 +1,8 @@
+D:\OOP Based  Project\OOPBasedProject\OOPBasedProject\obj\Debug\OOPBasedProject.csproj.AssemblyReference.cache
+D:\OOP Based  Project\OOPBasedProject\OOPBasedProject\obj\Debug\OOPBasedProject.csproj.SuggestedBindingRedirects.cache
+D:\OOP Based  Project\OOPBasedProject\OOPBasedProject\obj\Debug\OOPBasedProject.csproj.CoreCompileInputs.cache
+D:\OOP Based  Project\OOPBasedProject\OOPBasedProject\bin\Debug\OOPBasedProject.exe.config
+D:\OOP Based  Project\OOPBasedProject\OOPBasedProject\bin\Debug\OOPBasedProject.exe
+D:\OOP Based  Project\OOPBasedProject\OOPBasedProject\bin\Debug\OOPBasedProject.pdb
+D:\OOP Based  Project\OOPBasedProject\OOPBasedProject\obj\Debug\OOPBasedProject.exe
+D:\OOP Based  Project\OOPBasedProject\OOPBasedProject\obj\Debug\OOPBasedProject.pdb
